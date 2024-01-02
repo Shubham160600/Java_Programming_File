@@ -1,4 +1,5 @@
-/* To create a Java program using classes and objects. */
+/* 
+To create a Java program using classes and objects. */
 
 class Person {
 	// Instance Variables
