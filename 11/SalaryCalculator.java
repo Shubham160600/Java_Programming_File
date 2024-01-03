@@ -1,3 +1,8 @@
+/* Write a java program to calculate gross salary & net salary taking the following data.
+Input:empno,empname,basic
+ Process:
+ DA=50% of basic, HRA=25% of basic, CCA=Rs240/-, PF=10% of basic, PT=Rs100/ */
+
 package shubham;
 import java.util.Scanner;
 
